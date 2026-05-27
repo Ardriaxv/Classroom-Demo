@@ -1,3 +1,5 @@
+[![View Site](https://img.shields.io/badge/Live_Site-Visit-blue)](https://ardriaxv.github.io/Classroom-Demo/)
+
 CO₂ Classroom → Globe Demo (Stratified)
 A simple, visual, science based demo showing how CO₂ builds up in a sealed classroom and what it would mean if the whole planet matched that concentration.
 
