@@ -1,4 +1,4 @@
-🌍 CO₂ Classroom → Globe Demo (Stratified)
+CO₂ Classroom → Globe Demo (Stratified)
 A simple, visual, science‑based demo showing how CO₂ builds up in a sealed classroom — and what it would mean if the whole planet matched that concentration.
 
 This tool is designed for teachers, students, and communicators who want to understand (and show) why flowing air matters in classrooms, offices, and shared spaces.
@@ -8,7 +8,7 @@ It also provides a powerful metaphor:
 A classroom is a tiny planet.
 What happens in the room is a scaled‑down version of what happens to Earth.
 
-🎯 Purpose
+Purpose
 This demo illustrates three key ideas:
 
 1. CO₂ rises quickly in sealed rooms
@@ -28,7 +28,7 @@ what 3000+ ppm would mean
 
 This makes indoor air quality instantly relatable.
 
-🧪 What the Demo Shows
+What the Demo Shows
 Classroom Panel
 A rectangular room with 30 kids + 1 adult.
 
@@ -44,7 +44,7 @@ Text explaining what the world would look like if Earth matched the room’s CO�
 Slider Control
 Move the slider from 0 → 6 hours to simulate time in a sealed classroom.
 
-🧠 Science Behind It
+Science Behind It
 CO₂ Mapping
 0 hours ≈ 600 ppm (fresh-ish)
 
@@ -76,7 +76,7 @@ full breakdown
 
 This helps students understand climate change through a familiar environment.
 
-🚀 Features
+Features
 Interactive slider for time-in-room simulation
 
 Dynamic CO₂ fill animation
@@ -89,7 +89,7 @@ Clear, teacher-friendly explanations
 
 Zero dependencies — works in any browser
 
-📦 How to Use
+How to Use
 Open the HTML file in any browser.
 
 Move the slider to simulate hours in a sealed classroom.
@@ -114,7 +114,7 @@ parent meetings
 
 staff training
 
-🏫 Why This Matters for Teachers
+Why This Matters for Teachers
 This demo helps teachers see what they normally only feel:
 
 tired kids
@@ -137,7 +137,7 @@ keeping doors open
 
 are not optional — they are essential for learning and wellbeing.
 
-🧩 Code Structure
+Code Structure
 HTML — layout and UI
 
 CSS — visuals, gradients, animations
@@ -146,11 +146,11 @@ JavaScript — CO₂ mapping, globe scaling, mood text, dynamic updates
 
 Everything is contained in a single file for easy use and sharing.
 
-📄 License
+License
 © 2026 D. Hughson
 All rights reserved.
 Educational use encouraged.
 
-🙌 Credits
+Credits
 Created by D. Hughson  
 Designed for teachers, students, and anyone who wants to understand the invisible world of indoor air.
