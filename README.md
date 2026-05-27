@@ -1,5 +1,5 @@
 CO₂ Classroom → Globe Demo (Stratified)
-A simple, visual, science‑based demo showing how CO₂ builds up in a sealed classroom — and what it would mean if the whole planet matched that concentration.
+A simple, visual, science based demo showing how CO₂ builds up in a sealed classroom and what it would mean if the whole planet matched that concentration.
 
 This tool is designed for teachers, students, and communicators who want to understand (and show) why flowing air matters in classrooms, offices, and shared spaces.
 
@@ -15,10 +15,10 @@ This demo illustrates three key ideas:
 A crowded classroom (30 kids + 1 adult) can climb from 600 ppm → 4000+ ppm in just a few hours.
 
 2. CO₂ pools from the bottom up
-Children sit in the lowest layer — the part of the room where CO₂ accumulates first.
+Children sit in the lowest layer the part of the room where CO₂ accumulates first.
 
 3. A classroom is a micro‑planet
-The demo maps room CO₂ to a planet‑wide equivalent, showing:
+The demo maps room CO₂ to a planet wide equivalent, showing:
 
 what 800 ppm would mean globally
 
@@ -70,14 +70,14 @@ The globe text explains:
 
 +6°C world
 
-near-collapse
+near collapse
 
 full breakdown
 
 This helps students understand climate change through a familiar environment.
 
 Features
-Interactive slider for time-in-room simulation
+Interactive slider for time in-room simulation
 
 Dynamic CO₂ fill animation
 
@@ -85,9 +85,9 @@ Planetary scaling overlay
 
 Kid/adult icons at the bottom layer
 
-Clear, teacher-friendly explanations
+Clear, teacher friendly explanations
 
-Zero dependencies — works in any browser
+Zero dependencies works in any browser
 
 How to Use
 Open the HTML file in any browser.
@@ -135,14 +135,14 @@ running fans
 
 keeping doors open
 
-are not optional — they are essential for learning and wellbeing.
+are not optional they are essential for learning and wellbeing all year round.
 
 Code Structure
-HTML — layout and UI
+HTML layout and UI
 
-CSS — visuals, gradients, animations
+CSS visuals, gradients, animations
 
-JavaScript — CO₂ mapping, globe scaling, mood text, dynamic updates
+JavaScript CO₂ mapping, globe scaling, mood text, dynamic updates
 
 Everything is contained in a single file for easy use and sharing.
 
